@@ -1,0 +1,16 @@
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\bin\Release\CameraCapture.exe
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\bin\Release\CameraCapture.pdb
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\bin\Release\Emgu.CV.dll
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\bin\Release\Emgu.CV.UI.dll
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\bin\Release\Emgu.Util.dll
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\bin\Release\ZedGraph.dll
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\bin\Release\Emgu.CV.xml
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\bin\Release\Emgu.CV.UI.xml
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\bin\Release\Emgu.Util.xml
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\bin\Release\zh-CN\Emgu.CV.UI.resources.dll
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\bin\Release\zh-CN\ZedGraph.resources.dll
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\obj\Release\CameraCapture.CameraCapture.resources
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\obj\Release\CameraCapture.Properties.Resources.resources
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\obj\Release\CameraCapture.csproj.GenerateResource.Cache
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\obj\Release\CameraCapture.exe
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\obj\Release\CameraCapture.pdb

@@ -1,0 +1,17 @@
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\obj\Debug\CameraCapture.pdb
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\obj\Debug\FaceDetection.csprojResolveAssemblyReference.cache
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\obj\Debug\CameraCapture.FaceDetection.resources
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Dropbox\CLASS\CS740\HW\HW07\CameraCapture\obj\Debug\FaceDetection.csproj.GenerateResource.Cache
+C:\Dropbox\CLASS\CS740\HW\HW07\FaceDetection\obj\Debug\CameraCapture.exe
+C:\Dropbox\CLASS\CS740\HW\HW07\FaceDetection\obj\Debug\CameraCapture.pdb
+C:\Dropbox\CLASS\CS740\HW\HW07\FaceDetection\bin\Debug\CameraCapture.exe
+C:\Dropbox\CLASS\CS740\HW\HW07\FaceDetection\bin\Debug\CameraCapture.pdb
+C:\Dropbox\CLASS\CS740\HW\HW07\FaceDetection\obj\Debug\FaceDetection.csprojResolveAssemblyReference.cache
+C:\Dropbox\CLASS\CS740\HW\HW07\FaceDetection\obj\Debug\CameraCapture.FaceDetection.resources
+C:\Dropbox\CLASS\CS740\HW\HW07\FaceDetection\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Dropbox\CLASS\CS740\HW\HW07\FaceDetection\obj\Debug\FaceDetection.csproj.GenerateResource.Cache
+C:\Dropbox\CLASS\CS740\HW\HW07\FaceDetection\obj\Debug\CameraCapture.ImageWindow.resources
